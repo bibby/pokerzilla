@@ -1,0 +1,38 @@
+body{
+	background-color:#50996C;
+}
+
+.card{
+	background-color:#FFF2F2;
+	border:1px solid black;
+	height:120px;
+	line-height:120px;
+	width:80px;
+	text-align:center;
+	margin:0.3em;
+	font-size:2.2em;
+	
+	/* float:left; */
+	display:inline-block;
+	
+}
+
+.row{
+	clear:left;
+	float:left;
+	border:2px solid black;
+	height:120px;
+	margin:0.3em;
+}
+
+.container{
+	display:inline-block;
+	width:220px;
+	border:1px solid black;
+	padding:2px;
+	margin:0.4em;
+}
+
+.winner{
+	background-color:#5DDC8E;
+}
